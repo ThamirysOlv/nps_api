@@ -1,6 +1,6 @@
 # NPS API
 
-The purpose of this project is to get data from NPS API.
+The purpose of this project is to request data from NPS API.
 
 The data requested from the API is analyzed for parks and park activities.
 
